@@ -1,0 +1,1 @@
+sc create "deCONZ Service" binPath=%cd%\deCONZWindowsService.exe start=auto
